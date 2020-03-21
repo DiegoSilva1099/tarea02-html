@@ -1,0 +1,47 @@
+
+html{
+	background:white;
+}
+body{
+	background: #CDC9C9;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 3.5%;
+	padding-bottom:1%;
+}
+h1{
+	letter-spacing: 6px;
+	font-family: arial;
+	text-align: center;
+	padding-top: 3%;
+	font-size: 1.3cm;
+}
+h2{
+	background: grey;
+	margin-left: 3%;
+	margin-right: 3%;
+	color: white;
+	padding: 0.5% 0.5%;
+	font-family: arial;
+	font-size: 0.8cm;
+}
+
+img{
+	padding-left: 7%;
+}
+
+div{
+	width: 85%;
+}
+
+footer p{
+	padding-top: 3%;
+	text-align: center;
+	color:#CDC9C9;
+	text-shadow: 0 0 0.2em;
+	text-shadow: 0 0 0.6em grey, 0 0 0.6em grey, 0 0 0.6em grey;
+	font-size: 0.7cm;
+	font-family: arial;
+
+}
+
